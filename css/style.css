@@ -1,0 +1,92 @@
+.sfondo{
+  background-image: url(img/pattern.png);
+  background-size: contain;
+  height: 100px;
+}
+
+.container{
+  width: 75%;
+  margin: auto;
+}
+
+header{
+  width: 70%;
+}
+
+.logo{
+  width: 200px;
+  margin-top: 35px;
+}
+
+h1{
+  margin-bottom: 0px;
+}
+
+.writtenby{
+  color: gray;
+}
+
+
+.text-invio{
+  text-decoration: none;
+  color: #31afe7
+}
+
+.text-photo{
+  margin-top: 0px;
+  font-size: 11px;
+}
+
+.text1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.underline{
+  background-color: yellow;
+}
+
+
+ul{
+ padding-left: 15px;
+ margin-bottom: 30px;
+}
+
+.intestazione{
+  text-align: left;
+  background-color: #20a9e5;
+  color: white;
+}
+
+.colorcells{
+  background-color: #b1e5f2;
+}
+
+.textgrey{
+  font-size: 20px;
+  color: grey;
+  font-weight: bold
+}
+
+.phototext1{
+  padding-top: 15px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  width: 312px;
+  height: 208px;
+  background-image: url(img/monitor.jpg);
+}
+
+.phototext2{
+  padding-top: 15px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  width: 312px;
+  height: 208px;
+  background-image: url(img/graph.jpg);
+}
+
